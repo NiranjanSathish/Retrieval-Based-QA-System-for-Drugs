@@ -27,10 +27,6 @@ var/
 .installed.cfg
 *.egg
 
-# Model files and vectors
-Vectors/*.idx
-Vectors/*.npy
-Vectors/*.pkl
 
 # IDEs and editors
 .idea/
