@@ -23,6 +23,7 @@ This project implements a Retrieval based Question Answering system that answers
     ├── Query_processing.py        # Query intent classification and NER
     ├── Retrieval.py               # Embedding, FAISS indexing, and reranking logic
     ├── Answer_Generation.py       # Prompt building and Groq LLM integration
+    ├── demo.py                    # Demo of the whole project
 ├── Datasets
     ├── flattened_drug_dataset_cleaned.csv
     ├── custom_drug_eval_set_id.csv
